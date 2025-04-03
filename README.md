@@ -7,6 +7,7 @@
 - [FLAC](https://www.rfc-editor.org/rfc/rfc9639.html)
 - [RIFF](https://johnloomis.org/cpe102/asgn/asgn1/riff.html)
 - [QuickTime](https://developer.apple.com/documentation/quicktime-file-format)
+- [MP4](https://web.archive.org/web/20180219054429/http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
 - [MP4](https://atomicparsley.sourceforge.net/mpeg-4files.html)
 - [M4A](https://ahyattdev.github.io/blog/2018/02/17/m4a-metadata-structure.html)
 - [Matroska](https://www.matroska.org/technical/elements.html)
