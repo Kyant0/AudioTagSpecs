@@ -19,18 +19,22 @@
 ### ID3
 
 - [ID3v1/v1.1](https://id3.org/ID3v1)
-- [ID3v1.2](https://www.birdcagesoft.com/ID3v12.txt)
+- [ID3v1.2 (informal)](https://www.birdcagesoft.com/ID3v12.txt)
 - [ID3v2.2.0](https://id3.org/id3v2-00)
 - [ID3v2.3.0](https://id3.org/d3v2.3.0): [guide](https://id3.org/id3guide)
 - ID3v2.4.0: [changes](https://id3.org/id3v2.4.0-changes) | [main structure](https://id3.org/id3v2.4.0-structure) | [frames](https://id3.org/id3v2.4.0-frames)
+- [ID3v2](https://id3lib.sourceforge.net/id3)
+- [Lyrics3 (deprecated)](https://id3.org/Lyrics3)
+- [Lyrics3 v2.00](https://id3.org/Lyrics3v2)
 
-### Vorbis comment
+### VorbisComment
 
+- [VorbisComment](https://wiki.xiph.org/VorbisComment)
 - [OGG Vorbis](https://www.xiph.org/vorbis/doc/v-comment.html)
 - [FLAC](https://www.rfc-editor.org/rfc/rfc9639.html#name-vorbis-comment)
 - [Opus Tags](https://datatracker.ietf.org/doc/html/rfc7845#section-5.2)
 
-### APE tags
+### APE
 
 - [APEv1](https://wiki.hydrogenaud.io/index.php?title=APEv1_specification)
 - [APEv2](https://wiki.hydrogenaud.io/index.php?title=APEv2_specification)
