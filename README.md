@@ -8,6 +8,7 @@
 - [RIFF](https://johnloomis.org/cpe102/asgn/asgn1/riff.html)
 - [QuickTime](https://developer.apple.com/documentation/quicktime-file-format)
 - [MP4](https://atomicparsley.sourceforge.net/mpeg-4files.html)
+- [M4A](https://ahyattdev.github.io/blog/2018/02/17/m4a-metadata-structure.html)
 - [Matroska](https://www.matroska.org/technical/elements.html)
 - [ASF](https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
 
