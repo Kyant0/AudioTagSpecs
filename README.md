@@ -27,6 +27,7 @@
 - [ID3v2](https://id3lib.sourceforge.net/id3)
 - [Lyrics3 (deprecated)](https://id3.org/Lyrics3)
 - [Lyrics3 v2.00](https://id3.org/Lyrics3v2)
+- [Comparison of ID3 Standards](http://www.unixgods.org/Ruby/ID3/docs/ID3_comparison.html)
 
 ### VorbisComment
 
