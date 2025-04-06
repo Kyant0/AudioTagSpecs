@@ -20,6 +20,7 @@
 
 - [ID3v1/v1.1](https://id3.org/ID3v1)
 - [ID3v1.2 (informal)](https://www.birdcagesoft.com/ID3v12.txt)
+- [ID3v1 extended](https://web.archive.org/web/20120310015458/http://www.fortunecity.com/underworld/sonic/3/id3tag.html)
 - [ID3v2.2.0](https://id3.org/id3v2-00)
 - [ID3v2.3.0](https://id3.org/d3v2.3.0): [guide](https://id3.org/id3guide)
 - ID3v2.4.0: [changes](https://id3.org/id3v2.4.0-changes) | [main structure](https://id3.org/id3v2.4.0-structure) | [frames](https://id3.org/id3v2.4.0-frames)
