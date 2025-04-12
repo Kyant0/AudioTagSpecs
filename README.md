@@ -9,6 +9,7 @@
 - [QuickTime](https://developer.apple.com/documentation/quicktime-file-format)
 - [MP4](https://web.archive.org/web/20180219054429/http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
 - [MP4](https://atomicparsley.sourceforge.net/mpeg-4files.html)
+- [MP4 Boxes (Atoms)](https://mp4ra.org/registered-types/boxes)
 - [M4A](https://ahyattdev.github.io/blog/2018/02/17/m4a-metadata-structure.html)
 - [Matroska](https://www.matroska.org/technical/elements.html)
 - [ASF](https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
