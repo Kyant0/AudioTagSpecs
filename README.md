@@ -46,7 +46,7 @@
 
 ###  Others
 
-- [QuickTime metadata](https://developer.apple.com/documentation/quicktime-file-format/metadata_atoms_and_types): [metadata keys](https://developer.apple.com/documentation/quicktime-file-format/quicktime_metadata_keys) [MP4Tags](https://mutagen.readthedocs.io/en/latest/api/mp4.html)
+- [QuickTime metadata](https://developer.apple.com/documentation/quicktime-file-format/metadata_atoms_and_types): [metadata keys](https://developer.apple.com/documentation/quicktime-file-format/quicktime_metadata_keys) [MP4Tags](https://mutagen.readthedocs.io/en/latest/api/mp4.html) [Types](https://developer.apple.com/documentation/quicktime-file-format/well-known_types)
 - [RIFF INFO tags](https://exiftool.org/TagNames/RIFF.html)
 - [Matroska Tags](https://www.matroska.org/technical/tagging.html)
 - [WMA Attributes](https://learn.microsoft.com/en-us/windows/win32/wmformat/attributes)
