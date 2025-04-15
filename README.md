@@ -12,6 +12,7 @@
 - [MP4 Boxes (Atoms)](https://mp4ra.org/registered-types/boxes)
 - [MP4](https://mp4workshop.com/about)
 - [M4A](https://ahyattdev.github.io/blog/2018/02/17/m4a-metadata-structure.html)
+- [QuickTime](https://wiki.multimedia.cx/index.php/QuickTime_container)
 - [Matroska](https://www.matroska.org/technical/elements.html)
 - [ASF](https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
 
